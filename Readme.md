@@ -1,6 +1,6 @@
 ##  This is simple version of TicTacToe Game
 
-![TicTacToe Game Overview](./game.jpg);
+![TicTacToe Game Overview](./game.jpg)
 
 The game look.
 
