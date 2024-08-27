@@ -2,7 +2,7 @@
 
 ![TicTacToe Game Overview](./game.jpg)
 
-#The basic look of the game.
+# The basic look of the game.
 
 !!! At the time of building there .gif file present so use image to show result
 
