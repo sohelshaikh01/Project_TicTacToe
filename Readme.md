@@ -2,8 +2,8 @@
 
 ![TicTacToe Game Overview](./game.jpg)
 
-The game look.
+#The basic look of the game.
 
 !!! At the time of building there .gif file present so use image to show result
 
-🚩Alert At First it show with form any click, so please reset befor playing.
+🚩Alert: Reset the game before playing because at first it will show win by clicking anywhere.
